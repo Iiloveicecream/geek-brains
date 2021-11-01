@@ -101,7 +101,7 @@ def task6_mod(many_words):
 
 
 if __name__ == '__main__':
-    task1(4, 0)
+    task1(4, 0) 
     task2(
         name=input("Input name: "), surname=input("Input surname: "),
         birthday=input("Input birthday: "),
